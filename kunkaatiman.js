@@ -9,4 +9,5 @@ accueil.addEventListener("click", () => {
 
 window.onload = function(){
   document.getElementById("son").play()
+
 }
